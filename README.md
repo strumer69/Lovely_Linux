@@ -1,5 +1,5 @@
 # Lovely_Linux
-*you can find update training materials here:
+* you can find update training materials here:
 * https://learning.lpi.org/en/
 * ## linux Essentials:
 * ## 1.1 - lesson 1
