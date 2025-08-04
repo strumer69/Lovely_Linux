@@ -75,3 +75,15 @@ flexibility, low cost , easy to implement andscale, Back up and recovery, ...
 ### package removal:
 *  apt-get remove package_name
 *  PAGE 31/442
+### Data Sharing:
+* Between Linux machines, **NFS** (Network File System) is often used.
+### programming language:
+* **source** code--> for example hello.cpp is a source code
+* it should change to a **binary** file in order to be executable --> **compiler** do this for us
+* in **interpreted** language, an **interpreter** reads the source code and executes its instruction every time the program is run --> JavaScript, Perl, Shellscript, Python and PHP
+-  this makes the **development** easier and faster. but the program itself is slower than compiled programs.
+* compiled programs example: C and Java
+* page37/442
+### Guided Exercises:
+
+-  
