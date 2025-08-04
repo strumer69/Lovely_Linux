@@ -37,19 +37,26 @@
 * Distribution:
 - SmartPhone: Android
 - Desktop and server--> any distribution that is mostly suitable with the functionality of that machine from **Debian, Ubuntu** to **CentOS and Red Hat** Enterprise Linux.   
-#### 3. You are planning to install a Linux distribution in a new environment. Name four things that
-you should consider when choosing a distribution.
+#### 3. You are planning to install a Linux distribution in a new environment. Name four things that you should consider when choosing a distribution.
+* cost
+* performance
+* stability
+* scalability
 #### 4. Name three devices that the Android OS runs on, other than smartphones.
+* smart watch, smart TV,  Auto , ...
 #### 5. Explain three major advantages of cloud computing.
+flexibility, low cost , easy to implement andscale, Back up and recovery, ...
    
     
 ### Explorational Exercises
-1. Considering cost and performance, which distributions are mostly suitable for a business that
-aims to reduce licensing costs, while keeping performance at its highest? Explain why.
-2. What are the major advantages of the Raspberry Pi and which functions can they take in
-business?
-3. What range of distributions does Amazon Cloud Services and Google Cloud offer? Name at least
-three common ones and two different ones.
+#### 1. Considering cost and performance, which distributions are mostly suitable for a business that aims to reduce licensing costs, while keeping performance at its highest? Explain why.
+* --> refr to pdf for answers
+
+#### 2. What are the major advantages of the Raspberry Pi and which functions can they take in -business?
+* --> refr to pdf for answers
+
+#### 3. What range of distributions does Amazon Cloud Services and Google Cloud offer? Name at least three common ones and two different ones.
+* --> refr to pdf for answers
 
 ### Summary
 * In this lesson we learned:
@@ -60,3 +67,5 @@ three common ones and two different ones.
 • Different uses of a **Raspberry Pi**
 • What is **Cloud** Computing
 • What role does Linux play in cloud computing
+## 1.2 Major Open Source Applications
+* page 23/442
