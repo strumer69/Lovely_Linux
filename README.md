@@ -27,23 +27,22 @@
   - Google Cloud Platform (GCP), offers different forms of Linux.
   - Even Microsoft offers Linux-based virtual machines in their **Azure** cloud today.
   * Infrastructure as a Service (**IaaS**) -->Linux is usually offered as part of Infrastructure as a Service (IaaS)
-  * ### Guided Exercises:
-  * #### 1. How is Debian **GNU/Linux** different from **Ubuntu**? Name two aspects.
-       - Ubunto is based on **snapshot** ob Debian. so there will be similarities between them.
-       - **Ubuntu** is recomended for beginners. **Debian** is for more adcanced users.
-       - main difference is the **complexity** of user configuration. Also **Debian** is more stable compared to **Ubuntu**.  because Debian receives fewer updates that are tested in
-detail 
-    #### 2. What are the most common environments/platforms Linux is used for? Name three different environments/platforms and name one distribution you can use for each.
-    * environments/platforms: **smartphone**, **desktop** and **server**
-    * Distribution:
-      - SmartPhone: Android
-      - Desktop and server--> any distribution that is mostly suitable with the functionality of that machine from **Debian, Ubuntu** to **CentOS and Red Hat** Enterprise Linux.   
-  #### 3. You are planning to install a Linux distribution in a new environment. Name four things that
+### Guided Exercises:
+#### 1. How is Debian **GNU/Linux** different from **Ubuntu**? Name two aspects.
+* Ubunto is based on **snapshot** ob Debian. so there will be similarities between them.
+* **Ubuntu** is recomended for beginners. **Debian** is for more adcanced users.
+* main difference is the **complexity** of user configuration. Also **Debian** is more stable compared to **Ubuntu**.  because Debian receives fewer updates that are tested in detail 
+#### 2. What are the most common environments/platforms Linux is used for? Name three different environments/platforms and name one distribution you can use for each.
+* environments/platforms: **smartphone**, **desktop** and **server**
+* Distribution:
+- SmartPhone: Android
+- Desktop and server--> any distribution that is mostly suitable with the functionality of that machine from **Debian, Ubuntu** to **CentOS and Red Hat** Enterprise Linux.   
+#### 3. You are planning to install a Linux distribution in a new environment. Name four things that
 you should consider when choosing a distribution.
 #### 4. Name three devices that the Android OS runs on, other than smartphones.
 #### 5. Explain three major advantages of cloud computing.
    
-    3. 
+    
 ### Explorational Exercises
 1. Considering cost and performance, which distributions are mostly suitable for a business that
 aims to reduce licensing costs, while keeping performance at its highest? Explain why.
@@ -52,7 +51,7 @@ business?
 3. What range of distributions does Amazon Cloud Services and Google Cloud offer? Name at least
 three common ones and two different ones.
 
-  * ### Summary
+### Summary
 * In this lesson we learned:
 • What **distributions** does Linux have
 • What are Linux **embedded** systems
