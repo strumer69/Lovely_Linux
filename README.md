@@ -68,4 +68,10 @@ flexibility, low cost , easy to implement andscale, Back up and recovery, ...
 • What is **Cloud** Computing
 • What role does Linux play in cloud computing
 ## 1.2 Major Open Source Applications
-* page 23/442
+### software packages:
+* **Debian**, **Ubuntu** and Linux **Mint **use the **dpkg**, **apt-get** and apt tools to install software packages
+* Red Hat, Fedora and CentOS use the **rpm, yum and dnf** commands instead
+* --example:-->sudo apt-get install figlet
+### package removal:
+*  apt-get remove package_name
+*  PAGE 31/442
