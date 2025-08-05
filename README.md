@@ -2,6 +2,7 @@
 * you can find update training materials here:
 * https://learning.lpi.org/en/
 * ## linux Essentials:
+* ### ------------------------------------------------------------------------------------------------
 * ## 1.1 - lesson 1
 * ###  introduction
 * this seems to be the first chapter of learning linux. in the folowing I will write notes from this section.
@@ -67,7 +68,14 @@ flexibility, low cost , easy to implement andscale, Back up and recovery, ...
 • Different uses of a **Raspberry Pi**
 • What is **Cloud** Computing
 • What role does Linux play in cloud computing
+### ------------------------------------------------------------------------------------------------
 ## 1.2 Major Open Source Applications
+## Summary
+In this lesson, you learned:
+• The package management systems used in major Linux distributions
+• Open source applications that can **edit** popular file formats
+• The server programs underlying many important Internet and local network services
+• Common programming languages and their uses
 ### software packages:
 * **Debian**, **Ubuntu** and Linux **Mint **use the **dpkg**, **apt-get** and apt tools to install software packages
 * Red Hat, Fedora and CentOS use the **rpm, yum and dnf** commands instead
@@ -103,12 +111,92 @@ flexibility, low cost , easy to implement andscale, Back up and recovery, ...
 5. SVG is an open standard for vector graphics. Which is the most popular application for **editing SVG files** in Linux systems?
 -  Inkscape
 6. For each of the following file formats, write the name of an application able to open and edit the corresponding file:
--  png --> Gimps
--  doc --> LibreOffice Writer
--  xls --> --> LibreOffice Calc
--  ppt --> LibreOffice Impress
--  wav --> Audacity
-8. Which software package allows file sharing between Linux and Windows machines over the
-local network?
-
+  -  png --> Gimps
+  -  doc --> LibreOffice Writer
+  -  xls --> --> LibreOffice Calc
+  -  ppt --> LibreOffice Impress
+  -  wav --> Audacity
+7. Which software package allows file sharing between Linux and Windows machines over the local network?
+  - --> samba
+### Explorational Exercises
+1. You know that** configuration files** are kept even if the associated package is removed from the system. How could you automatically remove the package named cups and its configuration
+files from a DEB based system?
+  - apt-get purge cups
+    
+2 Suppose you have many **TIFF image** files and want to **convert** them to JPEG. Which software package could be used to convert those files directly at the command line?
+  - ImageMagick
+3. Which software package do you need to install in order to be able to open **Microsoft Word documents** sent to you by a Windows user?
+  - LibreOffice or OpenOffice
+### ------------------------------------------------------------------------------------------------
+## 1.3 Open Source Software and Licensing
+### Summary
+* In this lesson you have learned:
+-  Similarities and differences between free and open source software (FLOSS)
+-  LOSS licenses, their importance and problems
+-  Copyleft vs. permissive licences
+-  FLOSS business models
 -  
+* page 47/442
+* the meaning of free software--> there is **4 criteria**:
+-  freedom to run the program
+-  reedom to study how the program works --> we may also change it.
+-   freedom of redistribute it to help others.
+-   freedom of redistribute our modified version
+### Questiones that you may find the answer at this section:
+-  whats Copy_left and Copy_right?
+-  whats Dual Licence?
+-  what is CC (short for Creative Common) Licencing?
+* 6 different CC licensing:
+-  1-CC BY (“Attribution”)--> refer to book for more detail --> page 52/442
+-  2-CC BY-SA (“Attribution-ShareAlike”)
+-  3-CC BY-ND (“Attribution-NoDerivatives”)
+-  4-CC BY-NC (“Attribution-NonCommercial”)
+-  5-CC BY-NC-SA (“Attribution-NonCommercial-ShareAlike”)
+-  6-CC BY-NC-ND (“Attribution-NonCommercial-NoDerivatives”)
+### Guided Exercises
+1. What are — in a nutshell — the “four freedoms” as defined by Richard Stallman and the Free
+Software Foundation?
+freedom 0
+freedom 1
+freedom 2
+freedom 3
+2. What does the abbreviation FLOSS stand for?
+3. You have developed free software and want to ensure that the software itself, but also all
+future works based on it, remain free as well. Which license do you choose?
+CC BY
+GPL version 3
+2-Clause BSD License
+LGPL
+4. Which of the following licenses would you call permissive, which would you call copyleft?
+Simplified BSD License
+GPL version 3
+CC BY
+CC BY-SA
+5. You have written a web application and published it under a free license. How can you earn
+money with your product? Name three possibilities.
+### Explorational Exercises
+1. Under which license (including version) are the following applications available?
+Apache HTTP Server
+MySQL Community Server
+Wikipedia articles
+Mozilla Firefox
+GIMP
+2. You want to release your software under the GNU GPL v3. What steps should you follow?
+3. You have written proprietary software and would like to combine it with free software under
+the GPL version 3. Are you allowed to do this or what do you have to consider?
+4. Why did the Free Software Foundation release the GNU Affero General Public License (GNU
+AGPL) as a supplement to the GNU GPL?
+5. Name three examples of free software, which are also offered as “Business Edition”, i.e. in a
+chargeable version.
+### ------------------------------------------------------------------------------------------------
+## 1.4 ICT Skills and Working in Linux
+### summary:
+* a
+* 
+### ------------------------------------------------------------------------------------------------
+### ------------------------------------------------------------------------------------------------
+### ------------------------------------------------------------------------------------------------
+### ------------------------------------------------------------------------------------------------
+### ------------------------------------------------------------------------------------------------
+
+
