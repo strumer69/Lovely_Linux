@@ -85,5 +85,30 @@ flexibility, low cost , easy to implement andscale, Back up and recovery, ...
 * compiled programs example: C and Java
 * page37/442
 ### Guided Exercises:
+* 1-For each of the following commands, identify whether it is associated with the Debian packaging system or the Red Hat packaging system:
+-  dpkg --> deb
+-  rpm --> RH
+-  apt-get --> deb
+-  yum -->RH
+-  dnf --> Deb
+*  2. Which command could be used to install **Blender** on Ubuntu? After installation, how can the program be executed?
+-  --> das ist  gans Einfach--> apt-get install blender  
+
+3. Which application from the LibreOffice suite can be used to work with **electronic spreadsheets**?
+   
+-  calc
+4. Which **open-source web browser** is used as the basis for the development of Google Chrome?
+   -   Chromium
+   
+5. SVG is an open standard for vector graphics. Which is the most popular application for **editing SVG files** in Linux systems?
+-  Inkscape
+6. For each of the following file formats, write the name of an application able to open and edit the corresponding file:
+-  png --> Gimps
+-  doc --> LibreOffice Writer
+-  xls --> --> LibreOffice Calc
+-  ppt --> LibreOffice Impress
+-  wav --> Audacity
+8. Which software package allows file sharing between Linux and Windows machines over the
+local network?
 
 -  
