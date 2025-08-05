@@ -154,40 +154,42 @@ files from a DEB based system?
 -  5-CC BY-NC-SA (“Attribution-NonCommercial-ShareAlike”)
 -  6-CC BY-NC-ND (“Attribution-NonCommercial-NoDerivatives”)
 ### Guided Exercises
-1. What are — in a nutshell — the “four freedoms” as defined by Richard Stallman and the Free
-Software Foundation?
-freedom 0
-freedom 1
-freedom 2
-freedom 3
+1. What are — in a nutshell — the “four freedoms” as defined by Richard Stallman and the Free Software Foundation?
+-  freedom 0 --> run the software
+-  freedom 1 --> study and modify the software (source code)
+-  freedom 2 --> distribute the software
+-  freedom 3 --> distribute the modified software
+-  
 2. What does the abbreviation FLOSS stand for?
-3. You have developed free software and want to ensure that the software itself, but also all
-future works based on it, remain free as well. Which license do you choose?
-CC BY
-GPL version 3
-2-Clause BSD License
-LGPL
-4. Which of the following licenses would you call permissive, which would you call copyleft?
-Simplified BSD License
-GPL version 3
-CC BY
-CC BY-SA
-5. You have written a web application and published it under a free license. How can you earn
-money with your product? Name three possibilities.
+-   Free/Libre Open Source Software
+3. You have developed free software and want to ensure that the software itself, but also all future works based on it, remain free as well. Which license do you choose?
+-  GPL version 3
+
+4. Which of the following licenses would you call **permissive**, which would you call **copyleft**?
+-   Simplified BSD License -->  permissive
+-   GPL version 3 --> copyleft
+-   CC BY --> permissive
+-   CC BY-SA -->  copyleft
+5. You have written a web application and published it under a free license. How can you earn money with your product? Name three possibilities.
+- Dual licensing, e.g. by offering a chargeable “Business Edition”
+- Offering hosting, service, and support
+- Developing proprietary extensions for customers
+- 
 ### Explorational Exercises
 1. Under which license (including version) are the following applications available?
-Apache HTTP Server
-MySQL Community Server
-Wikipedia articles
-Mozilla Firefox
-GIMP
+-  Apache HTTP Server --> Apache License 2.0
+-  MySQL Community Server --> GPL 2
+-  Wikipedia articles --> Creative Commons Attribution Share-Alike license (CC-BY-SA)
+-  Mozilla Firefox --> Mozilla Public License 2.0
+-  GIMP --> GPL 3
 2. You want to release your software under the GNU GPL v3. What steps should you follow?
-3. You have written proprietary software and would like to combine it with free software under
-the GPL version 3. Are you allowed to do this or what do you have to consider?
-4. Why did the Free Software Foundation release the GNU Affero General Public License (GNU
-AGPL) as a supplement to the GNU GPL?
-5. Name three examples of free software, which are also offered as “Business Edition”, i.e. in a
-chargeable version.
+-   refer to book for answer - page 59/442
+3. You have written proprietary software and would like to combine it with free software under the GPL version 3. Are you allowed to do this or what do you have to consider?
+-  refer to book for answer - page 59/442
+4. Why did the Free Software Foundation release the GNU Affero General Public License (GNU AGPL) as a supplement to the GNU GPL?
+-  refer to book for answer - page 59/442
+5. Name three examples of free software, which are also offered as “Business Edition”, i.e. in a chargeable version.
+ -  refer to book for answer - page 59/442
 ### ------------------------------------------------------------------------------------------------
 ## 1.4 ICT Skills and Working in Linux
 ### summary:
