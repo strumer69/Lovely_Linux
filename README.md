@@ -193,9 +193,27 @@ files from a DEB based system?
 ### ------------------------------------------------------------------------------------------------
 ## 1.4 ICT Skills and Working in Linux
 ### summary:
-* a
-* 
+* The **terminal** is a powerful way to interact with the system and there are lots of useful and very
+mature tools to use in this kind of environment.
+* Linux is largely used in the tech industry to offer IaaS, PaaS and SaaS services.
+* There are **three main hypervisors** which play an important role in supporting those: Xen, KVM and Virtualbox.
+* The **browser** is an essential piece of software in computing nowadays, but it’s necessary to understand some things to use it with **safety**.
+* **DNT** is just a way to tell the website that you do not want to be tracked, **but** there is no guarantee on that.
+* Private windows are private only to the computer you’re using but this can allow you to escape from cookie tracking exactly because of that.
+* **TLS** is able to **encrypt** your communication on the Internet, but you have to be able to recognize when it’s in use.
+* Using **strong passwords** is also very important to keep you safe, so the best idea is to **delegate** that responsibility to a **password manager**
+* Another way to secure your communication is to sign and encrypt your files folders and emails with GnuPG.
+* dm-crypt and EncFS are two alternatives to encrypt whole disks or partitions
+* Finally, **LibreOffice** Impress is a very complete open source alternative to Microsoft Powerpoint
+* but there are **Beamer** and **RevealJS** if you prefer to create presentations using code instead of GUIs.
+* ProjectLibre and GanttProject can be the right choice if you need a Microsoft Project replacement
+* -
+* for exercises refer to the PDF.
+
 ### ------------------------------------------------------------------------------------------------
+# Topic 2: Finding Your Way on a Linux System
+## 2.1 Command Line Basics
+PAGE 80/442
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
