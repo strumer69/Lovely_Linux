@@ -228,6 +228,10 @@ PAGE 80/442
 * touch --> Create an empty file or update an existing file’s modification date.
 * hostname --> Show or change a system’s hostname.
 ### ------------------------------------------------------------------------------------------------
+# 2.1 -->Command Line Basics-->  lesson 2
+### in this section the followings are covered:
+* types of variables --> local and Environment  and How to change local with **export**
+
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
