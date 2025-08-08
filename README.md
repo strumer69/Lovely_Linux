@@ -214,6 +214,19 @@ mature tools to use in this kind of environment.
 # Topic 2: Finding Your Way on a Linux System
 ## 2.1 Command Line Basics
 PAGE 80/442
+### Summary:
+* In this section we learned:
+-  Concepts of the Linux shell
+-  what is the Bash shell
+-  The structure of the command line
+-  An introduction to quoting "abcd" , 'abcd'
+-  Commands used in the exercises:
+* bash --> The most popular shell on Linux computers.
+* echo --> Output text on the terminal.
+* ls --> List the contents of a directory.
+* type --> Show how a specific command is executed.
+* touch --> Create an empty file or update an existing file’s modification date.
+* hostname --> Show or change a system’s hostname.
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
