@@ -231,7 +231,17 @@ PAGE 80/442
 # 2.1 -->Command Line Basics-->  lesson 2
 ### in this section the followings are covered:
 * types of variables --> local and Environment  and How to change local with **export**
-
+* example:
+``` c++
+$ export greeting=hey
+$ echo $greeting world
+hey world
+$ bash -c 'echo $greeting world'
+hey world
+```
+* PATH --> to find executale files --> for example instead of using (/usr/bin/ls ) , we simple say (ls) and call the executables more easily.
+* if we creat a function named my_script, we should add it to the PATH in order to ba able to use it from every  where:--> export PATH="$PATH:~/my_scripts"
+* example: --> export PATH="$PATH:~/2024/skill/0-bash" -->  then go to  parent folder (cd ..) --> bash ex4.bash --> you should see the result of this script :) 
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
