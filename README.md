@@ -241,8 +241,19 @@ hey world
 ```
 * PATH --> to find executale files --> for example instead of using (/usr/bin/ls ) , we simple say (ls) and call the executables more easily.
 * if we creat a function named my_script, we should add it to the PATH in order to ba able to use it from every  where:--> export PATH="$PATH:~/my_scripts"
-* example: --> export PATH="$PATH:~/2024/skill/0-bash" -->  then go to  parent folder (cd ..) --> bash ex4.bash --> you should see the result of this script :) 
+* example: --> export PATH="$PATH:~/2024/skill/0-bash" -->  then go to  parent folder (cd ..) --> bash ex4.bash --> you should see the result of this script :)
+* page 89/442 -->
+* echo $HOME --> to see your home dir
+* which ls --> to find where is the location of (ls) --> or  which myfunftion
+* page 103/442 --> guided exercises
 ### ------------------------------------------------------------------------------------------------
+# 2.2 Using the Command Line to Get Help 
+* page 106/442
+* This chapter focuses on methods to access that documentation, with the purpose of getting help --> man , help, info
+* locate --> also this chapter is about the **locate** command
+* page 113/442
+* 
+
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
 
