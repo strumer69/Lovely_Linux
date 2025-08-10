@@ -248,6 +248,15 @@ hey world
 * page 103/442 --> guided exercises
 ### ------------------------------------------------------------------------------------------------
 # 2.2 Using the Command Line to Get Help 
+## Summary
+* In this lesson you learned:
+  • How to get **help**
+  • How to use the **man** command
+  • How to navigate the man page
+  • Different sections of the man page
+  • How to use the **info** command
+  • How to navigate between different **nodes**
+  • How to **search** for files within the system
 * page 106/442
 * This chapter focuses on methods to access that documentation, with the purpose of getting help --> man , help, info
 * locate --> also this chapter is about the **locate** command
@@ -255,6 +264,9 @@ hey world
 * 
 
 ### ------------------------------------------------------------------------------------------------
+# 2.3 Using Directories and Listing Files
+* page 122/442
+* page 128/442
 ### ------------------------------------------------------------------------------------------------
 
 
