@@ -278,8 +278,23 @@ hey world
 # 2.3 Lesson 2 --> Using Directories and Listing Files
 ## Summary
 page 144/442
-### ------------------------------------------------------------------------------------------------
+* In this section we learned:
+• that **each** Linux user will have a home directory,
+• the **current** user’s home directory can be reached by using ~,
+• any file path that uses ~ is called a **relative-to-home** path.
 
+### ------------------------------------------------------------------------------------------------
+# 2.4 Creating, Moving and Deleting Files
+* page 151/442
+* commands: --> mv, cp, rm, touch,  mkdir, rmdir
+## Summary
+* The Linux command line environment provides tools to manage files.
+* Some commonly used ones are -->  **cp, mv, mkdir, rm, and rmdir**.
+* These tools, combined with **globs**, allow users to get a lot of work done very quickly.
+* Many commands have a **-i option**, which prompts you before doing anything.
+* Prompting can save you a lot of hassle if you mistyped something.
+* A lot of commands have a **-r option**. -->  The -r option usually means **recursion**.
+* In mathematics and computer science, a recursive function is a function using itself in its definition. -->  When it comes to command line tools, it usually means apply the command to a **directory** and everything in it.
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
