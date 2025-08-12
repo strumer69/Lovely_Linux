@@ -296,7 +296,14 @@ page 144/442
 * A lot of commands have a **-r option**. -->  The -r option usually means **recursion**.
 * In mathematics and computer science, a recursive function is a function using itself in its definition. -->  When it comes to command line tools, it usually means apply the command to a **directory** and everything in it.
 ### ------------------------------------------------------------------------------------------------
+# Topic 3: The Power of the Command Line
+* page 177/442
 ### ------------------------------------------------------------------------------------------------
+## 3.1 Archiving Files on the Command Line
+• tar --> Common tar options:
+  • gzip, bzip2, xz
+  • zip, unzip
+* page 179/442
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
