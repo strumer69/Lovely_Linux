@@ -304,7 +304,36 @@ page 144/442
   • gzip, bzip2, xz
   • zip, unzip
 * page 179/442
+## Summary
+* Linux systems have several compression and archiving tools available.
+* This lesson covered the most common ones. The **most common** archiving tool is **tar**.
+* If interacting with Windows systems is necessary, **zip** and **unzip** can create and extract ZIP files.
+* The **tar** command has a few **options** that are worth memorizing. They are
+  * x for extract,
+  * c for create,
+  * t for view contents, and
+  * u to add or replace files.
+  * The v option lists the files which areprocessed by tar while creating or extracting an archive.
+* The typical Linux distribution’s repository has many compression tools. The most common are:
+  * gzip,
+  * bzip2, and
+  * xz.
+* Compression algorithms often support different levels that allow you to optimize for speed or file size.
+* Files can be **decompressed** with
+  * gunzip,
+  * bunzip2, and
+  * unxz.
+* Compression tools commonly have programs that behave like common text file tools, with the difference being they work on compressed files.
+* A few of them are
+  * zcat,
+  * bzcat, and
+  * xzcat.
+*  Compression tools typically ship with programs with the functionality of **grep**, **more**, **less**, **diff**, and **cmp**.
+  
 ### ------------------------------------------------------------------------------------------------
+## 3.2 Searching and Extracting Data from Files
+* page 195/442
+
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
