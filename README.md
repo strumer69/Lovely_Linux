@@ -332,9 +332,26 @@ page 144/442
   
 ### ------------------------------------------------------------------------------------------------
 ## 3.2 Searching and Extracting Data from Files
-* page 195/442
+* page 206/442
+### Summary
+In this lab you learned:
+• **Types** of redirection
+• How to use the **redirection** operators
+• How to use **pipes** to filter command output
+* Commands used in this lesson:
+  * cut -->  Removes sections from each line of a file.
+  * cat --> Displays or concatenates files.
+  * find --> **Searches** for files in a directory hierarchy.
+  * less --> Displays a file, allowing the user to scroll one line at the time.
+  * more --> Displays a file, a page at the time.
+  * head --> Displays the first 10 lines of a file.
+  * tail -> Displays the last 10 lines of a file.
+  * sort --> Sorts files.
+  * wc --> Counts by default the lines, words or bytes of a file.
 
 ### ------------------------------------------------------------------------------------------------
+## 3.2 Lesson 2 --> Searching and Extracting Data from Files
+page 209/442
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
 ### ------------------------------------------------------------------------------------------------
