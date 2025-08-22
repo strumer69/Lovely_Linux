@@ -282,7 +282,9 @@ page 144/442
 • that **each** Linux user will have a home directory,
 • the **current** user’s home directory can be reached by using ~,
 • any file path that uses ~ is called a **relative-to-home** path.
-
+* /home/shahram/Documents === ~/Documents
+* absolute path example --> /home/user/Projects/website/index.html
+* relative path: a path that starts from our current working directory --> use . ot .. while addressing
 ### ------------------------------------------------------------------------------------------------
 # 2.4 Creating, Moving and Deleting Files
 * page 151/442
